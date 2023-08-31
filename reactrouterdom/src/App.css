@@ -1,0 +1,16 @@
+.brand{
+  color:red;
+  padding-bottom: 20px;
+
+}
+.fsd{
+  display: flex;
+  padding: 20px;
+}
+.carddiv{
+  padding:10px ;
+}
+.object{
+  object-fit: cover;
+  width: fit-content;
+}
